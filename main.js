@@ -10,5 +10,9 @@ const r = await model.generateContent("What is node js?");
 
 console.log(r.response.text());
 
+// <<<<<<< main
 
-// hello new comment
+// // hello new comment
+// =======
+// commmit
+// >>>>>>> main
