@@ -9,5 +9,3 @@ const model = genai.getGenerativeModel({
 const r = await model.generateContent("What is node js?");
 
 console.log(r.response.text());
-
-;wheowvbewofheowihvawoi
