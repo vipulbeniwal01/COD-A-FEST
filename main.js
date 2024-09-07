@@ -8,4 +8,11 @@ const model = genai.getGenerativeModel({
 
 const r = await model.generateContent("What is node js?");
 
-console.log(r.response.text());
+// console.log(r.response.text());
+// <<<<<<< main
+
+// ;wheowvbewofheowihvawoi
+
+// // "can you see this change"
+// =======
+// >>>>>>> main
